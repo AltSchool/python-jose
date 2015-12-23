@@ -39,7 +39,7 @@ Principles
 ----------
 
 This is a JOSE implementation that is fully compatible with Google App Engine
-which requires the use of the PyCrypto library.
+which requires the use of the PyCryptodome library.
 
 Thanks
 ------
